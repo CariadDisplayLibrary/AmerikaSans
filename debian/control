@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: AmerikaSans.h
-Description: AmerikaSans font for DisplayCore
+Description: AmerikaSans
