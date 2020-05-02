@@ -1,7 +1,7 @@
 #ifndef _AMERIKASANS_H
 #define _AMERIKASANS_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t AmerikaSans10[];
